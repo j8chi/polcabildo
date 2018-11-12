@@ -1,0 +1,1 @@
+for %f in (*.json) do type "%f" >> output.txt
